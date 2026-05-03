@@ -39,7 +39,7 @@ Instead of storing checkbox states as individual records, this system:
 
 ### Frontend
 
-* HTML / JS (or React if used)
+* HTML / JS 
 
 ---
 
